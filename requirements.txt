@@ -1,0 +1,8 @@
+groq>=0.9.0
+playwright>=1.44.0     # still used for TopJob.lk
+python-dotenv>=1.0.0
+beautifulsoup4>=4.12.0
+
+# LinkedIn scraping is handled by the Node.js package linkedin-jobs-scraper.
+# Run once in your project root:
+#   npm install linkedin-jobs-scraper
